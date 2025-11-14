@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to THE ZONE
 
 <!--
 **michael24peters/michael24peters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Michael Peters. I received a degree in Engineering Physics from The Ohio State University (it was about half physics, half computer science and engineering).
+
+I'm now working on my PhD in Physics at the University of Cincinnati, dividing my time between a high-energy physics analysis and a new long-lived particle (dark matter) detector at CERN: CODEX-b.
