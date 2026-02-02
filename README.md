@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 My name is Michael Peters. I received a degree in Engineering Physics from The Ohio State University (it was about half physics, half computer science and engineering).
 
 I'm now working on my PhD in Physics at the University of Cincinnati, dividing my time between a high-energy physics analysis, machine learning research, and a new long-lived particle (dark matter) detector at CERN: CODEX-b.
+
+Here is a link to my GitLab repository, which contains many of my CERN (LHCb) contributions: [https://gitlab.cern.ch/petersm](https://gitlab.cern.ch/petersm).
